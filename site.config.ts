@@ -36,8 +36,6 @@ export default siteConfig({
   // NOTE: if you enable redis, you need to set the `REDIS_HOST` and `REDIS_PASSWORD`
   // environment variables. see the readme for more info
   isRedisEnabled: true,
-  REDIS_HOST: 'redis-17262.c267.us-east-1-4.ec2.cloud.redislabs.com:17262',
-  REDIS_PASSWORD: 'P9tlI48MpYcNWTOtbAjPdy8gvbor9NAZ'
 
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
