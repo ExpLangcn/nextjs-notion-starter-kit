@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'b1494259fee940d0b1136122bb58030a',
+  rootNotionPageId: '61404e9cc62a4df69da140c90e23a561',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '阿浪小破站❤️❤️｜ExpLang small site❤️❤️',
-  domain: 'https://explang.notion.site/Team-Home-b1494259fee940d0b1136122bb58030a',
+  domain: 'https://www.notion.so/explang/61404e9cc62a4df69da140c90e23a561',
   author: 'ExpLang',
 
   // open graph metadata (optional)
